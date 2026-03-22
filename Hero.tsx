@@ -1,7 +1,7 @@
 import Image from "next/image";
 import Link from "next/link";
 
-// ─── Pill badge displayed above the headline ─────────────────────────────────
+// ─── Pill badge displayed above the headline ──────────────────────────────
 function Badge() {
   return (
     <div className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full bg-white/5 border border-white/10 text-xs font-medium text-gray-300 mb-6 select-none">
