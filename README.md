@@ -4,4 +4,4 @@
 
 # path for figma-mcp-console.
 
-https://github.com/southleft/figma-console-mcp
+(https://github.com/southleft/figma-console-mcp)
