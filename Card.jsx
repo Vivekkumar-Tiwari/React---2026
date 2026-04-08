@@ -3,7 +3,6 @@ import React from 'react'
 function Card({ username, btnText = "Kya click kiya be", image }) {
   console.log(username);
   return (
-
     <div className="w-60 flex flex-col rounded-xl bg-black min-h-[19rem] md:w-80 mx-auto">
       <div>
         <img
